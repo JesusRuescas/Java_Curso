@@ -1,0 +1,15 @@
+package classe;
+
+public class Data {
+
+	Data(){
+		
+	}
+	
+	Data(int dia, int mes, int ano ) {
+		nome = nomeInicial;
+		preco = precoInicial;
+	}
+}
+
+

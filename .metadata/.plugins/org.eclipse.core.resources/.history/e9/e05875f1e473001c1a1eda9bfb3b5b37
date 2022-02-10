@@ -1,0 +1,7 @@
+package classe;
+
+public class DataTeste {
+	
+	Data d1 = new Data(05, 07, 1999 );
+
+}

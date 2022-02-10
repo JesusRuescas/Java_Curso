@@ -1,0 +1,18 @@
+package classe;
+
+public class Data {
+	
+	int dia, mes, ano;
+
+	Data(){
+		
+	}
+	
+	Data(int dia, int mes, int ano ) {
+		dia = dia;
+		mes = mes;
+		ano = ano;
+	}
+}
+
+
